@@ -1,0 +1,50 @@
+Tipo=2
+[Personales]
+ID=.
+TipoID=.
+Nombres=.
+Apellidos=.
+Altura=.
+Peso=.
+Cintura=.
+Rut=.
+Kernel=.
+Cliente=.
+Telefono=.
+Fax=.
+Mail=.
+FechaNacimiento=.
+Sexo=.
+MAC=48-51-C5-4E-8E-2D
+[Clinicos]
+Antecedentes=
+Sintomas=
+[Medico tratante]
+NombreMedico=.
+[Medicaciones]
+Medicaciones=.
+[Sueno]
+SeAcosto=
+SeDurmio=
+SeDesperto=
+SeLevanto=
+ComoDurmio=
+[Comidas]
+Desayuno=.
+Almuerzo=.
+Once=.
+Cena=.
+[Trabajo]
+TrabajoInicio=.
+TrabajoFin=.
+[Observaciones]
+Observaciones=.
+[data]
+valor1 = 2022-07-03 15:50,122,77,65,0,0,''
+##2022-07-03 15:51,131,65,66,0,0,''
+##2022-07-03 15:53,147,82,70,0,0,''
+##2022-07-03 15:54,128,82,71,0,0,''
+##2022-07-03 15:56,139,83,67,0,0,''
+##2022-07-03 15:57,128,80,68,0,0,''
+##2022-07-03 15:57,132,77,71,0,0,''
+##2022-07-05 11:57,124,66,56,0,0,''

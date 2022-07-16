@@ -1,0 +1,50 @@
+Tipo=2
+[Personales]
+ID=1094
+TipoID=2
+Nombres=
+Apellidos=wqe
+Altura=
+Peso=
+Cintura=
+Rut=
+Kernel=
+Cliente=12-000
+Telefono=
+Fax=
+Mail=
+FechaNacimiento=
+Sexo=Masculino
+MAC=48-51-C5-4E-8E-2D
+[Clinicos]
+Antecedentes=
+Sintomas=
+[Medico tratante]
+NombreMedico=
+[Medicaciones]
+Medicaciones=
+[Sueno]
+SeAcosto=00:00
+SeDurmio=08:00
+SeDesperto=00:00
+SeLevanto=08:00
+ComoDurmio=.
+[Comidas]
+Desayuno=qwe
+Almuerzo=00:00
+Once=00:00
+Cena=00:00
+[Trabajo]
+TrabajoInicio=00:00
+TrabajoFin=00:00
+[Observaciones]
+Observaciones=.
+[data]
+valor1 = 2022-07-03 15:50,122,77,65,0,0,''
+##2022-07-03 15:51,131,65,66,0,0,''
+##2022-07-03 15:53,147,82,70,0,0,''
+##2022-07-03 15:54,128,82,71,0,0,''
+##2022-07-03 15:56,139,83,67,0,0,''
+##2022-07-03 15:57,128,80,68,0,0,''
+##2022-07-03 15:57,132,77,71,0,0,''
+##2022-07-05 11:57,124,66,56,0,0,''

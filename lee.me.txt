@@ -1,0 +1,16 @@
+instalacion de los archivos
+
+
+1.- verificar si los archivos estan en el directorio que corresponde
+    a.- Mapa
+    
+            directorio_Programa_Mapa=D:\Program Files (x86)\Sistemed\MAPA\bin\
+
+    b.- ABPM
+        directorio_Programa_Maquina=D:\Program Files (x86)\ABPM\data\rosita\SingleUser\
+
+
+2.- Colocar los campos que se quieren ingresar
+    datos_formulario = ID,TipoID,Nombres,Apellidos,Altura,Cintura,Kernel,Cliente,Telefono,Fax,Mail,FechaNacimiento
+
+3.- colocar el archivo main.exe como acceso directo
